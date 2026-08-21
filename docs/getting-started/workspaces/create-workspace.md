@@ -2,11 +2,11 @@
 
 In this tutorial, you’ll learn how to create and configure your first workspace.
 
-To follow along, we’ve provided a [demo GitHub repository](https://github.com/pramonettivega/demo-workspace/tree/main) and registered a [sample dataset](https://nationaldataplatform.org/dataset/weather-station-measurements) in the NDP Catalog.
+To follow along, we’ve provided a [demo GitHub repository](https://github.com/pramonettivega/demo-workspace/tree/main) and registered a [sample dataset](https://feder.nationaldataplatform.org/dataset/weather-station-measurements) in the FEDER Catalog.
 
 ## Setup Instructions
 
-1 - On the left panel, click *My NDP Hub* and select *New Workspace*.
+1 - On the left panel, click *Research Hub --> My Hub* and select *New Workspace*.
 
 2 - Complete the workspace form. Since this is a demo, feel free to use the sample text provided in the `README.md` of the tutorial repository.
 

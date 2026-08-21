@@ -1,14 +1,14 @@
 # How to launch workspace
 
-In this tutorial, you’ll learn how to work with a workspace in [JupyterHub](../workspace-launch/jupyterhub.md).
+In this tutorial, you’ll learn how to work with a workspace in [JupyterHub](https://feder-jupyterhub.nrp-nautilus.io/hub/).
 
-At this point, you should have completed the [Set Up Workspace](../quick-start/set-up-workspace.md) tutorial. If you haven’t done so yet, we highly recommend completing it first.
+At this point, you should have completed the [*How to create workspace*](./create-workspace.md) tutorial. If you haven’t done so yet, we highly recommend completing it first.
 
 In the previous tutorial, you set up your first workspace. Now, you'll launch it and begin working within JupyterHub.
 
 #### 1. Launch Your Workspace in JupyterHub
 
-- Go to *My Hub* and click your Demo Workspace.
+- Go to *Research Hub --> My Hub* and click your Demo Workspace.
 
 <img src="../images/my-hub.png" style="border: 2px solid black;">
 
@@ -44,7 +44,7 @@ If you encounter an error when launching the server:
 
 #### 4. Navigate and Set Up Your Workspace
 
-- On the left panel, locate the [NDP Widget](../workspace-launch/jupyterhub.md#ndp-widget).
+- On the left panel, locate the FEDER extension.
 
 - Click the *Current Folder* window.
 
@@ -52,7 +52,7 @@ If you encounter an error when launching the server:
 
 - Double-click on your User Persistent Storage to work in a folder with permanent storage (10GB limit).
 
-- Return to the NDP Widget by clicking the *NDP* button on the left panel.
+- Return to the FEDER extension by clicking the *FEDER* button on the left panel.
 
 <img src="../images/ndp-button.png" style="border: 2px solid black;">
 
@@ -67,7 +67,7 @@ If you encounter an error when launching the server:
 
 #### 5. Install Workspace Dependencies
 
-- Return to the NDP Widget, and click *Install requirements.txt.*
+- Return to the FEDER extension, and click *Install requirements.txt.*
 
 - Wait for the log file to appear.
 
@@ -78,7 +78,7 @@ If you encounter an error when launching the server:
 
 #### 6.  Add the Dataset
 
-- In the NDP Widget, under *Add Selected Files*, choose:
+- In the Feder extension, under *Add Selected Files*, choose:
 
     - Dataset: `weather-station-measurements`
 
@@ -103,4 +103,4 @@ If you encounter an error when launching the server:
 
 - Go to *File* (top left corner) → *Hub Control Panel* → *Stop Server* to shut down your environment when you're done.
 
-<img src="../images/stop-server.png" style="border: 2px solid black;">
+<img src="../images/jhub-logout.png" style="border: 2px solid black;">

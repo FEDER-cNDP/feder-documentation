@@ -1,17 +1,16 @@
 # Registering Data in NDP catalog
 
-The NDP Catalog is a metadata registry that allows organizations to share their digal assets (datasets, models, data services) with the community.
+The FEDER Catalog is a metadata registry that allows organizations to share their digal assets (datasets, models, data services) with the community.
 
 ## When to Register Your Digital Asset
 
 Consider registering your dataset, model, or data service in the following scenarios:
 
-- **Ahead of a classroom** — Register your asset before a course or training session so instructors and students have a persistent, citable reference point to access and reuse the resource throughout the class.
-- **Ahead of a data challenge** — Register the asset before launching a data challenge so participants have clear, reliable access to the data or resources needed to take part.
 - **Ahead of starting a research project** — Register early in the research lifecycle to establish provenance, make your intended data sources discoverable to collaborators, and support reproducibility.
 - **When you plan to expose your asset to the broader community** — If your goal is to share a finished dataset, model, or service publicly, registering it in the NDP Catalog increases its visibility and makes it easier for others to find, access, and build upon.
+- **Ahead of a data challenge** — Register the asset before launching a data challenge so participants have clear, reliable access to the data or resources needed to take part.
 
-**The NDP Catalog does not host or store any data or assets**. Instead, contributors are responsible for providing users with access to their resources. This can be done through any of the following mechanisms: a direct access link, documentation, a download URL, an API, or other equivalent methods.
+**The FEDER Catalog does not host or store any data or assets**. Instead, contributors are responsible for providing users with access to their resources. This can be done through any of the following mechanisms: a direct access link, documentation, a download URL, an API, or other equivalent methods.
 
 ## Before Registering your Dataset
 

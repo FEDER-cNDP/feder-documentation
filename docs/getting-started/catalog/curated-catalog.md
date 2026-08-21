@@ -1,6 +1,6 @@
 # Curated Catalogs
 
-NDP users can create curated catalogs to collect and organize multiple resources (such as datasets, services, and models) that are relevant to a specific project, domain, or organization. These curated instances make it easier to discover and access related resources.
+FEDER users can create curated catalogs to collect and organize multiple resources (such as datasets, services, and models) that are relevant to a specific project, or organization. These curated instances make it easier to discover and access related resources.
 
 ## Use Cases
 
@@ -11,7 +11,7 @@ Add curated catalogs to your user profile to showcase the resources you use in s
 
 **Organization Highlight**
 
-Organizations can create curated catalogs to highlight the resources they have contributed to NDP, helping users explore and engage with their offerings more easily.
+Organizations can create curated catalogs to highlight the resources they have contributed to FEDER, helping users explore and engage with their offerings more easily.
 
 
 **CollabStudio**
@@ -35,14 +35,10 @@ Curated catalogs can be embedded in a CollabStudio (whether for a Data Challenge
 
 Once you fill up the form, click on Submit.
 
-3 - Go to the NDP Catalog and search for the resources to add to your curated catalog. 
+3 - Go to the FEDER Catalog and search for the resources to add to your curated catalog. 
 
 4 - Click on add *Add to Catalog*. Select the curated catalog to which you want to add the resource.
 
-<img src="../images/add-cc.png" style="border: 2px solid black;">
-
 ## Adding your curated catalog to a CollabStudio
 
-After creating your curated catalog, you can add it to your CollabStudio (project, data challenge or classroom) to facilitate the sharing of the catalog among the members of your collabstudio.
-
-In a Data Challenge or Classroom, the *Add Curated Catalog* field is located at the end of the form when editing the studio. In a Project, it can be found in the right-hand panel.
+After creating your curated catalog, you can add it to your CollabStudio to facilitate the sharing of the catalog among the members of your collabstudio.

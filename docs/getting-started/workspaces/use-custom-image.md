@@ -1,6 +1,6 @@
 # Use your own image
 
-The NDP JupyterHub service allows users to bring in their own Jupyter-based images, giving them flexibility and control over their computing environment. Here are three key advantages:
+The FEDER JupyterHub service allows users to bring in their own Jupyter-based images, giving them flexibility and control over their computing environment. Here are three key advantages:
 
 **Persist your environments**
 

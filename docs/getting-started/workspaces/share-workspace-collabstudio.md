@@ -1,6 +1,6 @@
 # Creating a Project
 
-1 - In your Hub, click on *New CollabStudio* and select *NDP Project*.
+1 - In your Research Hub, click on *New CollabStudio*.
 
 2 - Fill in the project creation form, including a title, description, and the participating institution(s).
 
@@ -8,12 +8,11 @@
 
 3 - If the project is funded, select Yes to add lead investigator and funding organization information.
 
-4 - Click *Set up Project*.
+4 - Click *Set up CollabStudio*.
 
 5 - Click *Add a Group*.
 
-
-6 - Provide a name for your group. Avoid special characters and date formats, as this name will be used to create a shared storage folder in [JupyterHub](../workspace-launch/jupyterhub.md).
+6 - Provide a name for your group. Avoid special characters and date formats, as this name will be used to create a shared storage folder in JupyterHub.
 
 <img src="../images/project-group.png">
 

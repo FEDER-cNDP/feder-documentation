@@ -1,9 +1,9 @@
-# National Data Platform Code of Conduct
+# National Fusion Energy Data Ecosystem and Repository Code of Conduct
 
-The National Data Platform (NDP) is committed to fostering an environment that promotes collaboration, inclusivity, and innovation. To ensure that all participants in the NDP community feel respected and able to contribute, we have established the following Code of Conduct, which applies to all users, including researchers, educators, students, and partners. 
+The National Fusion Energy Data Ecosystem and Repository (FEDER) is committed to fostering an environment that promotes collaboration, inclusivity, and innovation. To ensure that all participants in the FEDER community feel respected and able to contribute, we have established the following Code of Conduct, which applies to all users, including researchers, educators, students, and partners. 
 
 #### 1. Respect and Inclusivity.
-- Treat all members of the NDP community with courtesy, dignity and respect, regardless of their background, identity, or beliefs.
+- Treat all members of the FEDER community with courtesy, dignity and respect, regardless of their background, identity, or beliefs.
 - Foster an inclusive and welcoming environment where everyone feels valued and safe to express their ideas.
 - Avoid discriminatory and/or offensive language and/or behavior, hate speech, or harassment in any form.
 
@@ -36,7 +36,7 @@ The National Data Platform (NDP) is committed to fostering an environment that p
 
 #### 8. Continuous Improvement.
 - We encourage feedback and suggestions to improve this Code of Conduct and the overall user experience.
-- This Code of Conduct may be updated or revised to better serve the NDP community.
+- This Code of Conduct may be updated or revised to better serve the FEDER community.
 
 <div style="text-align: justify;">
 By adhering to this code of conduct, you contribute to maintaining a positive and productive professional environment. Thank you for your commitment to these principles and values.
@@ -48,5 +48,5 @@ By adhering to this code of conduct, you contribute to maintaining a positive an
 If you experience or witness any unacceptable behavior or have other concerns, please inform a community leader or event organizer promptly. All reports will remain strictly confidential.
 <br>
 <br>
-If unacceptable behavior occurs during an National Data Platform-supported workshop or event, please notify the event staff immediately. They are available to help participants reach venue security or local authorities, provide escorts, or assist in any other way to ensure those affected feel safe throughout the event. You can report unacceptable behavior to any staff member introduced at the beginning of the event.
+If unacceptable behavior occurs during an National Fusion Energy Data Ecosystem and Repository-supported workshop or event, please notify the event staff immediately. They are available to help participants reach venue security or local authorities, provide escorts, or assist in any other way to ensure those affected feel safe throughout the event. You can report unacceptable behavior to any staff member introduced at the beginning of the event.
 </div>

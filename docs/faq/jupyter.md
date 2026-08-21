@@ -4,11 +4,11 @@ This page addresses some common questions about using the JupyterHub service.
 
 ### How do I bring in my Git repository?
 
-The NDP extension, available when launching your server, is the most seamless approach. Select your workspace, then the repository, and click *Clone Repository*. Note that if the repository is private, you'll be asked to provide a Git token.
+The FEDER extension, available when launching your server, is the most seamless approach. Select your workspace, then the repository, and click *Clone Repository*. Note that if the repository is private, you'll be asked to provide a Git token.
 
 ### How do I bring in my digital assets?
 
-If the digital asset has a direct download URL, the NDP extension is the most seamless approach. Select the resource you want to download, then click *Download Files to Current Folder*. If the asset does not have a direct download URL, you'll need to bring in the resource programmatically or upload it directly to the server using the *Upload File* button.
+If the digital asset has a direct download URL, the FEDER extension is the most seamless approach. Select the resource you want to download, then click *Download Files to Current Folder*. If the asset does not have a direct download URL, you'll need to bring in the resource programmatically or upload it directly to the server using the *Upload File* button.
 
 ### How long does persistent storage last?
 
@@ -16,7 +16,7 @@ Persistent storage remains permanent as long as the user stays active. If a user
 
 ### How much persistent storage do I get?
 
-Users get 10GB of persistent storage by default. This quota cannot be increased, as it is provided through the available storage capacity of the National Research Platform.
+Users get 10GB of persistent storage by default. This quota cannot be increased, as it is provided through the available storage capacity of the [National Research Platform](https://nrp.ai/).
 
 ### Where does my work get saved?
 

@@ -1,12 +1,12 @@
-# Sign In to NDP
+# Sign In to FEDER
 
-NDP uses [CI Logon](https://www.cilogon.org/) as its primary authentication method, a platform funded by the NSF to manage Identity and Access for national cyberinfrastructure (CI) resources.
+FEDER uses [CI Logon](https://www.cilogon.org/) as its primary authentication method, a platform funded by the NSF to manage Identity and Access for national cyberinfrastructure (CI) resources.
 
-**Please note**: access to NDP computing services is limited to users with institutional or university email accounts. **Do not register using commercial emails (e.g., Gmail, Outlook)**.
+**Please note**: access to FEDER computing services is limited to users with institutional or university email accounts. **Do not register using commercial emails (e.g., Gmail, Outlook)**.
 
-To log in and automatically register on NDP:
+To log in and automatically register on FEDER:
 
-1- Go to the National Data Platform [site](https://nationaldataplatform.org/). 
+1- Go to the FEDER [site](https://feder.nationaldataplatform.org/). 
 
 2- On the top right of your screen, click on Log In/Register. 
 

@@ -20,7 +20,7 @@ Sometimes, when new files are added to a path, the kernel may not detect them, l
 
 ### I clicked "Start Server" multiple times and my Jupyter session doesn't seem to launch
 
-NDP's main JupyterHub is hosted by the National Research Platform. As a shared research cluster, it operates on a first-come, first-served basis. If your session isn't launching, one of the following may be happening:
+FEDER's main JupyterHub is hosted by the [National Research Platform](https://nrp.ai/). As a shared research cluster, it operates on a first-come, first-served basis. If your session isn't launching, one of the following may be happening:
 
 - The cluster is undergoing maintenance.
 - There are no nodes currently available to fulfill your request.
@@ -46,7 +46,7 @@ If you have an active server running:
 
 <img src="../images/jhub-logout.png">
 
-**NOTE:** You must log out and log in within JupyterHub, not the main NDP site. If you go to the main NDP site to log out and
+**NOTE:** You must log out and log in within JupyterHub, not the main FEDER site. If you go to the main FEDER site to log out and
 log in again, your JupyterHub access token will not be reset. 
 
 !!! tip
