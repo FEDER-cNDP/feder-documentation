@@ -122,3 +122,11 @@ rm -rf ~/.config/pelican/
 # Second: open the browser link in a private/incognito browser to avoid stale cookies
 ```
 
+## CILogon User Identifier
+
+Pelican handles authorization with your CILogon User Identifier. CILogon is used because it interfaces with many academic and commercial organizations. To find your CILogon User Identifier, you can:
+
+- Go to https://cilogon.org
+- Log on with institute credentials, or github credentials if your institute isn't listed
+- Expand the "User Attributes" dropdown menu. CILogon User Identifier is the first entry
+- Your CILogon User Identifier will look like http://cilogon.org/serverX/users/123456
