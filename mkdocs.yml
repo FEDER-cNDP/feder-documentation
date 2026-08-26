@@ -18,9 +18,9 @@ nav:
           - "How to compile a collection of assets": getting-started/catalog/curated-catalog.md
       - Workspaces:
           - "Basics and examples": getting-started/workspaces/basics.md
-          - "How to create workspace": getting-started/workspaces/create-workspace.md
-          - "How to launch workspace": getting-started/workspaces/launch-workspace.md
-          - "How to share workspace": getting-started/workspaces/share-workspace-collabstudio.md
+          - "How to create a workspace": getting-started/workspaces/create-workspace.md
+          - "How to launch a workspace": getting-started/workspaces/launch-workspace.md
+          - "How to share a workspace": getting-started/workspaces/share-workspace-collabstudio.md
           - "Launch with R Studio or VS Code": getting-started/workspaces/launch-r-vscode.md
           - "Launch with your own Jupyter image": getting-started/workspaces/use-custom-image.md
     #  - Endpoints:

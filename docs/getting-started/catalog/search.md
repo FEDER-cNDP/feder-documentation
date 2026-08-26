@@ -4,7 +4,7 @@ In this quick tutorial, you will explore some data resources to get yourself fam
 
 ## Substring Search
 
-1 - Go the [FEDER Catalog](https://feder.nationaldataplatform.org/ckandata).
+1 - Go to the [FEDER Catalog](https://feder.nationaldataplatform.org/ckandata).
 
 2 - Type `HPWREN Weather`. You will see a dataset called *HPWREN Weather Station Measurements* among the listings. This is a dataset that we use as part of the [*How to create workspace*](../workspaces/create-workspace.md) tutorial.
 

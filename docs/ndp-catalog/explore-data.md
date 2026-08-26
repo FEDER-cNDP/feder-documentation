@@ -4,7 +4,7 @@ In this quick tutorial, you will explore some data resources to get yourself fam
 
 ## Substring Search
 
-1 - Go the [NDP Catalog](https://nationaldataplatform.org/ckandata).
+1 - Go to the [NDP Catalog](https://nationaldataplatform.org/ckandata).
 
 2 - Type `HPWREN Weather`. You will see a dataset called *HPWREN Weather Station Measurements* among the listings. This is a dataset that we use as part of the [*Set up Workspace*](../quick-start/set-up-workspace.md) tutorial.
 
