@@ -24,7 +24,7 @@ Curated catalogs can be embedded in a CollabStudio (whether for a Data Challenge
 
 <img src="../images/new-cc.png" style="border: 2px solid black;">
 
-2 - Fill up the setup form with the following information:
+2 - Fill out the setup form with the following information:
     
 - Name
 - Description
@@ -33,7 +33,7 @@ Curated catalogs can be embedded in a CollabStudio (whether for a Data Challenge
 
 <img src="../images/curated-catalog-form.png" style="border: 2px solid black;">
 
-Once you fill up the form, click on Submit.
+Once you fill out the form, click on Submit.
 
 3 - Go to the FEDER Catalog and search for the resources to add to your curated catalog. 
 
