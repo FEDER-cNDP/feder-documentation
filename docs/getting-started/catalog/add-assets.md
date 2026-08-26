@@ -44,7 +44,7 @@ Unlisted assets do not go through an approval process. As soon as your submissio
 
 After submitting your data registration form, you will receive a confirmation email acknowledging receipt of your submission. 
 
-Our team will carefully review your dataset to ensure it meets the standards and requirements of the NDP catalog. Please be patient as we complete this review process, as it may take some time.
+Our team will carefully review your dataset to ensure it meets the standards and requirements of the FEDER catalog. Please be patient as we complete this review process, as it may take some time.
 
 Once the review is complete, you will receive a second email informing you of the outcome, either accepting or rejecting your dataset for inclusion in the catalog. If your dataset is rejected, it is because it did not meet the necessary standards.
 
