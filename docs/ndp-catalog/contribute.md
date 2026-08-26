@@ -1,8 +1,8 @@
-# Registering Data in NDP catalog
+# Registering Data in FEDER catalog
 
-The NDP Catalog is a metadata registry that allows organizations to share their digal assets (datasets, models, data services) with the community.
+The FEDER Catalog is a metadata registry that allows organizations to share their digal assets (datasets, models, data services) with the community.
 
-**The NDP Catalog does not host or store any data or assets**. Instead, contributors are responsible for providing users with access to their resources. This can be done through any of the following mechanisms: a direct access link, documentation, a download URL, an API, or other equivalent methods.
+The FEDER Data Platform provides a logically centralized, FAIR-aligned view of assets while the underlying data remains distributed and accessible through registered URLs. Assets already stored in an accessible location should remain in place and be registered in FEDER using their access URLs. For the proof of concept, FIRE Collaboratives requiring accessible storage may use the [FEDER Pelican/OSDF Origin](../../technical-tutorials/pelican-101.md); additional storage requirements can be discussed separately. The FEDER Catalog is a metadata catalog, not a data repository.
 
 ### Before Registering your Dataset
 
@@ -37,7 +37,7 @@ The NDP Catalog is a metadata registry that allows organizations to share their 
 
 After submitting your data registration form, you will receive a confirmation email acknowledging receipt of your submission. 
 
-Our team will carefully review your dataset to ensure it meets the standards and requirements of the NDP catalog. Please be patient as we complete this review process, as it may take some time.
+Our team will carefully review your dataset to ensure it meets the standards and requirements of the FEDER catalog. Please be patient as we complete this review process, as it may take some time.
 
 Once the review is complete, you will receive a second email informing you of the outcome, either accepting or rejecting your dataset for inclusion in the catalog. If your dataset is rejected, it is because it did not meet the necessary standards.
 

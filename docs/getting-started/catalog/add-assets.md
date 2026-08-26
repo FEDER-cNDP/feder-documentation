@@ -1,18 +1,10 @@
-# Registering Data in NDP catalog
+# Registering Data in FEDER catalog
 
 The FEDER Catalog is a metadata registry that allows organizations to share their digal assets (datasets, models, data services) with the community.
 
-## When to Register Your Digital Asset
+The FEDER Data Platform provides a logically centralized, FAIR-aligned view of assets while the underlying data remains distributed and accessible through registered URLs. Assets already stored in an accessible location should remain in place and be registered in FEDER using their access URLs. For the proof of concept, FIRE Collaboratives requiring accessible storage may use the [FEDER Pelican/OSDF Origin](../../technical-tutorials/pelican-101.md); additional storage requirements can be discussed separately. The FEDER Catalog is a metadata catalog, not a data repository.
 
-Consider registering your dataset, model, or data service in the following scenarios:
-
-- **Ahead of starting a research project** — Register early in the research lifecycle to establish provenance, make your intended data sources discoverable to collaborators, and support reproducibility.
-- **When you plan to expose your asset to the broader community** — If your goal is to share a finished dataset, model, or service publicly, registering it in the NDP Catalog increases its visibility and makes it easier for others to find, access, and build upon.
-- **Ahead of a data challenge** — Register the asset before launching a data challenge so participants have clear, reliable access to the data or resources needed to take part.
-
-**The FEDER Catalog does not host or store any data or assets**. Instead, contributors are responsible for providing users with access to their resources. This can be done through any of the following mechanisms: a direct access link, documentation, a download URL, an API, or other equivalent methods.
-
-## Before Registering your Dataset
+### Before Registering your Dataset
 
 - Prepare your asset’s metadata. For guidance on each field, including which are required or optional, refer to the [Metadata Schema](https://docs.google.com/spreadsheets/d/1hPWpnMhSymKO1Po5n-aeic7D1wnRiF8n8RmzvgzAfdM/edit?gid=0#gid=0).
 

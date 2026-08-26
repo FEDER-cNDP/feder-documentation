@@ -55,6 +55,7 @@ nav:
   #     - How to host a workshop: contact.md
   - Technical Tutorials:
       - Jupyter 101: technical-tutorials/jupyter-101.md
+      - Pelican 101: technical-tutorials/pelican-101.md
       #- Docker 101: technical-tutorials/docker-101.md
   - FAQ:
       - Registration and login: faq/registration-login.md

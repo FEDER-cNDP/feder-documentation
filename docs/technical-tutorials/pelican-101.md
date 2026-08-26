@@ -6,7 +6,7 @@ The same rules apply to the `/feder/private` namespace, except authentication is
 
 ## Documentation
 
-It is always a good idea to read the documentation, which is at https://docs.pelicanplatform.org/
+It is always a good idea to read the [Pelican documentation](https://docs.pelicanplatform.org/).
 
 ## Installation
 

@@ -8,7 +8,7 @@ Each asset may consist of one or more resources, such as primary files, document
 
 <img src="../images/resources.png" style="border: 2px solid black;">
 
-It is important to note that the **FEDER Catalog is a metadata catalog, not a data repository. FEDER does not store any data**. All assets are hosted by their respective contributors, who are responsible for keeping them accurate and up to date.
+The FEDER Data Platform provides a logically centralized, FAIR-aligned view of assets while the underlying data remains distributed and accessible through registered URLs. Assets already stored in an accessible location should remain in place and be registered in FEDER using their access URLs. For the proof of concept, FIRE Collaboratives requiring accessible storage may use the [FEDER Pelican/OSDF Origin](../../technical-tutorials/pelican-101.md); additional storage requirements can be discussed separately. The FEDER Catalog is a metadata catalog, not a data repository.
 
 To start exploring the catalog and learn what types of resources are available, [see the next page](./search.md).
 
