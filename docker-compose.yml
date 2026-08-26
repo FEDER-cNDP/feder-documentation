@@ -1,0 +1,8 @@
+services:
+  mkdocs:
+    image: squidfunk/mkdocs-material
+    volumes:
+      - ./:/docs
+    stdin_open: true
+    tty: true
+    restart: always
