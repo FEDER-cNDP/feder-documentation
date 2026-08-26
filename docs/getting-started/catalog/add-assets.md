@@ -48,7 +48,7 @@ Our team will carefully review your dataset to ensure it meets the standards and
 
 Once the review is complete, you will receive a second email informing you of the outcome, either accepting or rejecting your dataset for inclusion in the catalog. If your dataset is rejected, it is because it did not meet the necessary standards.
 
-If you have any questions or concerns regarding the review process or would like clarification on the status of your submission, please don't hesitate to [contact our team](../contact.md) for assistance.
+If you have any questions or concerns regarding the review process or would like clarification on the status of your submission, please don't hesitate to [contact our team](../../contact.md) for assistance.
 
 ## Updating your approved requests
 
