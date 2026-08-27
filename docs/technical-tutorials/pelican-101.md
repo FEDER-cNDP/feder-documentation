@@ -1,8 +1,8 @@
-# Reading and Writing Data with Pelican at `/feder/public`
+# Reading and Writing Data with Pelican at `/ndp/public/feder`
 
-This is a short guide to getting, putting, and syncing data with the `pelican` command line executable. `/feder/public` is a Pelican namespace served through the OSDF federation, and `/access_testing` is a subdirectory which is used in these instructions. Reads can be done by any user, and writes require you to authenticate with your CILogon identity.
+This is a short guide to getting, putting, and syncing data with the `pelican` command line executable. `/ndp/public/feder` is a Pelican namespace served through the OSDF federation, and `/access_testing` is a subdirectory which is used in these instructions. Reads can be done by any user, and writes require you to authenticate with your CILogon identity.
 
-The same rules apply to the `/feder/private` namespace, except authentication is required for reading and writing.
+The same rules apply to the `/ndp/private/feder` namespace, except authentication is required for reading and writing.
 
 ## Documentation
 
@@ -35,12 +35,12 @@ osdf:///<namespace>/<path>
 Note the three slashes: `osdf://` followed by the absolute namespace path. For this namespace a full object URL looks like:
 
 ```
-osdf:///feder/public/access_testing/example.txt
+osdf:///ndp/public/feder/access_testing/example.txt
 ```
 
 ## Authenticating (CILogon)
 
-`/feder/public/access_testing` is publicly readable and write-protected. So you can read there, but the first time you write there, Pelican starts an OpenID-Connect login flow through CILogon. You don't run a separate login command, just issue the `get`/`put`/`sync` command and Pelican will:
+`/ndp/public/feder/access_testing` is publicly readable and write-protected. So you can read there, but the first time you write there, Pelican starts an OpenID-Connect login flow through CILogon. You don't run a separate login command, just issue the `get`/`put`/`sync` command and Pelican will:
 
 1. Create a local token wallet, prompting you for a wallet password
 2. Print a URL. Open it in a browser and log in with your institutional identity via CILogon
@@ -54,7 +54,7 @@ Download an object to a local path. Syntax is `pelican object get <source-url> <
 
 ```bash
 pelican object get \
-  osdf:///feder/public/access_testing/example.txt \
+  osdf:///ndp/public/feder/access_testing/example.txt \
   ./example.txt
 ```
 
@@ -67,7 +67,7 @@ Upload a local file to the namespace. Syntax is `pelican object put <local-file>
 ```bash
 pelican object put \
   ./results.csv \
-  osdf:///feder/public/access_testing/results.csv
+  osdf:///ndp/public/feder/access_testing/results.csv
 ```
 
 All writes require a valid token, so if you haven't authenticated yet this is where the CILogon flow above kicks in. To upload a whole directory tree, use `pelican object sync` (see below).
@@ -81,14 +81,14 @@ Push a local directory up to the namespace:
 ```bash
 pelican object sync \
   ./local_data \
-  osdf:///feder/public/access_testing/local_data
+  osdf:///ndp/public/feder/access_testing/local_data
 ```
 
 Pull the namespace directory down to a local folder:
 
 ```bash
 pelican object sync \
-  osdf:///feder/public/access_testing/local_data \
+  osdf:///ndp/public/feder/access_testing/local_data \
   ./local_data
 ```
 
@@ -101,7 +101,7 @@ pelican object sync \
 | Read or write a directory | `pelican object sync <src> <dest>` |
 | Preview a sync | `pelican object sync --dry-run <src> <dest>` |
 
-Where every `<...-url>` is of the form `osdf:///feder/public/<path>`.
+Where every `<...-url>` is of the form `osdf:///ndp/public/feder/<path>`.
 
 ## References
 
