@@ -6,7 +6,7 @@ The FEDER Data Platform provides a logically centralized, FAIR-aligned view of a
 
 ### Before Registering your Dataset
 
-- Prepare your asset’s metadata. For guidance on each field, including which are required or optional, refer to the [Metadata Schema](https://docs.google.com/spreadsheets/d/1hPWpnMhSymKO1Po5n-aeic7D1wnRiF8n8RmzvgzAfdM/edit?gid=0#gid=0).
+- Prepare your asset’s metadata. For guidance on each field, including which are required or optional, refer to the [Metadata Schema](https://docs.google.com/spreadsheets/d/1BLfvts8CCyh5Tqvi2c4Urxxvyj8hCbBI6zwr1qg6Z_k/edit?gid=1027725244#gid=1027725244).
 
 - Prepare each of your resources. A digital asset may contain multiple files or resources, such as documentation, schema files, data samples, and API endpoints. Ensure that each resource associated with the asset has a valid, updated access point.
 
