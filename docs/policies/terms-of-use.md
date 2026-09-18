@@ -30,7 +30,7 @@ You are responsible for:
 2. ensuring that access to your account is restricted to you alone. 
 
 <div style="text-align: justify;">
-Any actions conducted under your account are your responsibility, whether or not they were authorized by you. FEDER prohibits the sharing of login credentials with third parties, and you must take all necessary precautions to prevent unauthorized use of your account (e.g., use strong passwords and log out after each session). If you suspect that your account has been compromised or accessed without your permission, it is your responsibility to notify us immediately at support@nationaldataplatform.org. FEDER will not be held liable for any loss or damage resulting from your failure to protect your login information.
+Any actions conducted under your account are your responsibility, whether or not they were authorized by you. FEDER prohibits the sharing of login credentials with third parties, and you must take all necessary precautions to prevent unauthorized use of your account (e.g., use strong passwords and log out after each session). If you suspect that your account has been compromised or accessed without your permission, it is your responsibility to notify us immediately at feder@nationaldataplatform.org. FEDER will not be held liable for any loss or damage resulting from your failure to protect your login information.
 </div>
 
 #### User Account Termination.
