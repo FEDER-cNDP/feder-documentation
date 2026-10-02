@@ -10,8 +10,6 @@ The workspace is the main unit for assembling and delivering complete research w
 
 To learn more about the collection of open workspaces and the different ways the community uses them, consult the [*Explore*](https://feder.nationaldataplatform.org/explore) section of the Research Hub.
 
-Example: [*Onboarding Module*](https://nationaldataplatform.org/workspaces/a58c985f-77d2-4514-97ff-b8d0dd30e39a?from=explore)
-
 **Community Training**
 
 Research groups and agencies that contribute datasets or services to FEDER have the opportunity to develop dedicated workspaces designed as demos or tutorials. These workspaces act as practical tools to train the broader community on how to effectively access, process, analyze, and visualize their resources. For example, a workspace might guide users through working with a sample dataset, demonstrating data utilization workflows and showcasing techniques such as live streaming analysis or real-time data visualization, helping users fully leverage the contributed resources in their own work.
